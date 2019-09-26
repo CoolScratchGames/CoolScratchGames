@@ -1,0 +1,18 @@
+body{
+background-color: black;
+/*background-image: url("gameBackground3.gif");*/
+background-size: 100%
+
+
+}
+
+#farout{
+	width: 900px;
+	height: 700px;
+	display: block;
+	margin: 0 auto;
+}
+
+h3{
+	color: white;
+}

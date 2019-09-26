@@ -1,0 +1,129 @@
+body{
+background-color: #a5a5a5;
+background-image: url("CMG.png");
+background-size: 100%
+
+
+}
+
+#ajarioBtn{
+	background-image: url("ajarioLogo.png");
+	width: 250px;
+	height: 250px;
+	transition: 0.5s;
+	margin-left: 25px;
+	margin-top: 25px;
+	display: flex;
+
+}
+
+#ajarioBtn:hover{
+	
+background-image: url("ajarioDesc.png");
+width: 250px;
+height: 250px;
+transform: scale(1.1);
+transition: 0.5s;
+}
+
+#chargerBtn{
+	background-image: url("chargerLogo.png");
+	width: 250px;
+	height: 250px;
+	transition: 0.5s;
+	margin-left: 25px;
+	margin-top: 25px;
+	display: flex;
+
+}
+
+#chargerBtn:hover{
+	
+background-image: url("chargerDesc.png");
+width: 250px;
+height: 250px;
+transform: scale(1.1);
+transition: 0.5s;
+}
+
+#faroutBtn{
+	background-image: url("faroutLogo.png");
+	width: 250px;
+	height: 250px;
+	transition: 0.5s;
+	margin-left: 25px;
+	margin-top: 25px;
+	display: flex;
+
+}
+
+#faroutBtn:hover{
+	
+background-image: url("faroutDesc.png");
+width: 250px;
+height: 250px;
+transform: scale(1.1);
+transition: 0.5s;
+}
+
+
+.gameBtn{
+	width: 300px;
+	height: 300px;
+}
+
+
+#timeline {
+  
+}
+
+#twitter{
+	position: absolute;
+	right: 30px;
+	top: 70px;
+
+}
+
+#weekGame{
+
+	position: absolute;
+	left: 28%;
+	top: 70px;
+
+
+}
+
+
+
+li {
+  float: left;
+}
+
+li a
+{
+	color: white;
+	display: block;
+	width: 50px;
+	padding: 12px 16px;
+	text-decoration: none;
+	text-align: center;
+}
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow:hidden;
+	background-color: #333;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 100%;
+}
+li a:hover
+{
+ 	background-color: #111;
+}
+
+
+
+
+}
